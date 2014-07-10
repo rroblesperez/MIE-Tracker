@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIE - Fast demo</string>
+    <string name="welcome_text">MIE Tracker</string>
+    <string name="welcome_button_01">FAST</string>
+    <string name="welcome_button_02">Draw Matches</string>
+    <string name="welcome_button_03">Homography</string>
+    <string name="welcome_button_04">Canny</string>
+    <string name="welcome_button_05">Salir</string>
+    
+</resources>
